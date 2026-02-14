@@ -7,8 +7,3 @@ Static portfolio site. Simplicity and getting something out there in mind. //TOD
    - Source: **Deploy from a branch**
    - Branch: **main** / **root**
 5. Your site will be live at: `https://vsudano.github.io/portfolio/`
-
-## Customize
-- Update Open Graph URL/image in `index.html`
-- Add images to `assets/img/`
-- If using a custom domain, add a `CNAME` file with your domain name
